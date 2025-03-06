@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "JjhuLKv5Mz5+EXpP5Wx9AwvhjHiP8viRweEbTxEsXnA=",
+  "Source": "QuestAppSimple",
+  "BasePath": "_content/QuestAppSimple",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QuestAppSimple\\wwwroot",
+      "Source": "QuestAppSimple",
+      "ContentRoot": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\",
+      "BasePath": "_content/QuestAppSimple",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\07ms9ay38b-hkw5g12ism.gz",
+      "SourceId": "QuestAppSimple",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/QuestAppSimple",
+      "RelativePath": "index#[.{fingerprint=hkw5g12ism}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6cc8f96gvn",
+      "Integrity": "inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html",
+      "SourceId": "QuestAppSimple",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\",
+      "BasePath": "_content/QuestAppSimple",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hkw5g12ism",
+      "Integrity": "IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.hkw5g12ism.html",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\07ms9ay38b-hkw5g12ism.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000654022237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hkw5g12ism"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY="
+        }
+      ]
+    },
+    {
+      "Route": "index.hkw5g12ism.html",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hkw5g12ism"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY="
+        }
+      ]
+    },
+    {
+      "Route": "index.hkw5g12ism.html.gz",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\07ms9ay38b-hkw5g12ism.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hkw5g12ism"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\07ms9ay38b-hkw5g12ism.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000654022237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IYhbv66vkscGpfHJtNqWwzcGnjSMsPfGVMctOrpsndY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\obj\\Debug\\net9.0\\compressed\\07ms9ay38b-hkw5g12ism.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-inzgfXRZQN/vlJD1h8aJBrGR2Y+PJFsP6QeOQF0ZRBs="
+        }
+      ]
+    }
+  ]
+}

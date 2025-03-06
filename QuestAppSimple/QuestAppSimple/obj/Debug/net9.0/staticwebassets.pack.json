@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FHKuf\\4Semester\\ServerSWE\\WEBDotNetExample\\WEBDotNetExample\\QuestAppSimple\\QuestAppSimple\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuestAppSimple.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuestAppSimple.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.QuestAppSimple.props",
+      "PackagePath": "build\\QuestAppSimple.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.QuestAppSimple.props",
+      "PackagePath": "buildMultiTargeting\\QuestAppSimple.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.QuestAppSimple.props",
+      "PackagePath": "buildTransitive\\QuestAppSimple.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
