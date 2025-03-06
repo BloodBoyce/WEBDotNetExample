@@ -21,7 +21,7 @@ app.UseStaticFiles();
 
 // API Routes
 app.MapGet("api/questions", async (QuestionsContext context)
-    => await context.Questions.ToListAsync());
+    => await context.Questions.OrderByDescending(q => q.Votes).ToListAsync());
 
 
 // Post Route to add a new question
@@ -41,6 +41,8 @@ app.MapPost("api/questions/{id:int}/vote", async (QuestionsContext context, int 
     var question = await context.Questions.FirstOrDefaultAsync(q => q.Id == id);
     if (question is null)
         return Results.BadRequest("Invalid Question Id");
+    if (question.Votes >= 10)
+        return Results.BadRequest("You cannot vote more than 10 votes");
 
     question.Votes++;
     await context.SaveChangesAsync();
