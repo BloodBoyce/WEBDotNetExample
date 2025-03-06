@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestAppSimple", "QuestAppSimple\QuestAppSimple.csproj", "{97E2CECD-7B21-4A1A-B64A-6DE0B37A39AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E2CECD-7B21-4A1A-B64A-6DE0B37A39AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E2CECD-7B21-4A1A-B64A-6DE0B37A39AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E2CECD-7B21-4A1A-B64A-6DE0B37A39AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E2CECD-7B21-4A1A-B64A-6DE0B37A39AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
