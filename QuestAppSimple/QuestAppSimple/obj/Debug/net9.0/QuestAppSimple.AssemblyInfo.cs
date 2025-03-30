@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuestAppSimple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03beaf7f8cd02aebffc2c5480e45c71a5d2a76e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3326b20f47c63e11c228c279c3b80e8c45b5ed37")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuestAppSimple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuestAppSimple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
